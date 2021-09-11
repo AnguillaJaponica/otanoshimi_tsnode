@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AnguillaJaponica/otanoshimi_tsnode#readme",
   "devDependencies": {
     "@types/node": "^15.14.9",
+    "ts-node": "^10.2.1",
     "typescript": "^4.4.3"
   }
 }
